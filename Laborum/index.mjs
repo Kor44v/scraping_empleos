@@ -12,16 +12,23 @@ async function laborumScraping() {
 
   await page.waitForTimeout(2000);
   const links = await page.evaluate(() => {
-    const items = document.querySelectorAll(".sc-eZXMBi.yCeAd");
-    const links = [];
+    const data = [];
+    const divsEnListado = document.querySelectorAll("#listado-avisos div");
+    divsEnListado.forEach((div) => {
+      const enlace = div.querySelector("a");
+      if (enlace) {
+        const url = enlace.getAttribute("href");
+        console.log(url);
 
-    for (item of items) {
-      const link = item.href;
-      links.push({ link });
-    }
-    return links;
+        const infoData = {
+          url: url,
+        };
+        data.push(infoData);
+      }
+    });
+    return { data };
   });
-  console.log(links, "links");
+  // console.log(links, "links");
 
   // const jobs = await page.$$eval(".sc-eZXMBi.yCeAd", (info) => {
   //   info.map((el) => {
