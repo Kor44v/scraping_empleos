@@ -1,79 +1,1786 @@
-{
-  "data": [
-    {
-      "url": "/empleos-busqueda-mineria.html?relevantes=true"
-    },
-    {
-      "url": "/empleos-busqueda-mineria.html?relevantes=true"
-    },
-    {
-      "url": "/empleos/vendedor-especialista-en-mercado-publico-vertycal-1116306750.html"
-    },
-    {
-      "url": "/empleos/ingeniero-a-senior-ingenieria-y-construccion-turno-4x3-adecco-recursos-humanos-sa-1116307349.html"
-    },
-    {
-      "url": "/empleos/comprador-senior-minera-sierra-gorda-1116307166.html"
-    },
-    {
-      "url": "/empleos/ingeniero-confiabilidad-operacional-minera-sierra-gorda-1116307162.html"
-    },
-    {
-      "url": "/empleos/operador-de-preparacion-mecanica-calama-laboratorio-lqc-1116306870.html"
-    },
-    {
-      "url": "/empleos/administrador-senior-de-contratos-minera-sierra-gorda-1116306795.html"
-    },
-    {
-      "url": "/empleos/gerente-a-de-medio-ambiente-18318-randstad-servicios-ltda-1116306485.html"
-    },
-    {
-      "url": "/empleos/auxiliar-de-aseo-reemplazo-pares-y-alvarez-servicios-profesionales-limitada-1116305974.html"
-    },
-    {
-      "url": "/empleos/tecnico-de-servicio-mineria-electrico-electromecanico-laborum-selecta-1116302551.html"
-    },
-    {
-      "url": "/empleos/administrativo-control-documental-rubro-maestranza-mineria-experiencia-minima-2-anos-patricia-coolet-santibanez-reyes-1116305062.html"
-    },
-    {
-      "url": "/empleos/relator-de-capacitacion-con-reuf-wolf-capacitaciones-1116304926.html"
-    },
-    {
-      "url": "/empleos/ingeniero-civil-para-cargo-de-administrador-de-contratos-rancagua-vi-region-mandomedio-1116277229.html"
-    },
-    {
-      "url": "/empleos/administrador-de-contratos-rancagua-vi-region-mandomedio-1116277226.html"
-    },
-    {
-      "url": "/empleos/ayudante-produccion-hidrometalurgia-7x7-mejillones-cdo-servicios-empresariales-1116304371.html"
-    },
-    {
-      "url": "/empleos/asistente-de-bodega-samtech-s.a.-1116298465.html"
-    },
-    {
-      "url": "/empleos/ingeniero-en-prevencion-de-riesgos-1116304042.html"
-    },
-    {
-      "url": "/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-4370-instituto-profesional-iacc-1116303915.html"
-    },
-    {
-      "url": "/empleos/docente-asignatura-escuela-procesos-industriales-04-4437-instituto-profesional-iacc-1116303908.html"
-    },
-    {
-      "url": "/empleos/key-account-manager-skava-1116303607.html"
-    },
-    {
-      "url": "/empleos/ingeniero-electrico-para-el-cargo-de-ejecutivo-de-negocios-copiapo-peoplego-1116263643.html"
-    },
-    {
-      "url": "#"
-    },
-    {
-      "url": "/empleos-busqueda-mineria.htmlrecientes=true"
-    },
-    {
-      "url": "/empleos-busqueda-mineria.htmlrecientes=true&page=18"
-    }
-  ]
-}
+[
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/operador-de-winche-y-freno-mineria-iquique-manpowergroup-chile-1116317402.html",
+    "nombreEmpleo": "Operador de Winche y Freno - Minería Iquique"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-en-prevension-de-riesgos-sernageomin-b-1116317369.html",
+    "nombreEmpleo": "Ingeniero en Prevensión de Riesgos/Sernageomin B"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/soporte-de-plataformas-digitales-experiencia-en-bizagi-grupo-progestion-1116317154.html",
+    "nombreEmpleo": "Soporte de plataformas digitales / Experiencia en BizAgi"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-5638-instituto-profesional-iacc-1116317145.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-5638"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-5710-instituto-profesional-iacc-1116317091.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-5710"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-en-prevencion-de-riesgos-sernageomin-b-ambipar-response-1116316593.html",
+    "nombreEmpleo": "Ingeniero en Prevención de Riesgos Sernageomin B"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/pm-inteligencia-comercial-senior-banco-ripley-1116316459.html",
+    "nombreEmpleo": "PM Inteligencia Comercial Senior"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ejecutivo-comercial-kam--metalmecanica--santiago-perfil-laboral-spa-1116316436.html",
+    "nombreEmpleo": "Ejecutivo Comercial (KAM) – Metalmecánica – Santiago"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/asistente-a-de-muestrera-turno-4x3-adecco-recursos-humanos-sa-1116316385.html",
+    "nombreEmpleo": "ASISTENTE/A DE MUESTRERA - TURNO 4x3"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-a-de-proyectos-turno-4x3-adecco-recursos-humanos-sa-1116316149.html",
+    "nombreEmpleo": "INGENIERO/A DE PROYECTOS - TURNO 4x3"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/jefe-a-de-capacitacion-y-entrenamiento-turno-4x3-adecco-recursos-humanos-sa-1116316003.html",
+    "nombreEmpleo": "JEFE/A DE CAPACITACIÓN Y ENTRENAMIENTO - TURNO 4x3"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-analista-de-contratos-y-procesos-geoblast-sa-1116315615.html",
+    "nombreEmpleo": "Ingeniero Analista de Contratos y Procesos"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/mantenedor-a-bodeguero-a-geoblast-sa-1116315556.html",
+    "nombreEmpleo": "Mantenedor/a Bodeguero/a"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/mantenedor-a-bodeguero-a-geoblast-sa-1116315553.html",
+    "nombreEmpleo": "Mantenedor/a Bodeguero/a"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/mantenedor-a-bodeguero-a-geoblast-sa-1116315550.html",
+    "nombreEmpleo": "Mantenedor/a Bodeguero/a"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/jefe-de-ventas-tecnicas-industriales-dantechnique-ltda-1116315285.html",
+    "nombreEmpleo": "Jefe de Ventas Técnicas Industriales"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/vendedor-terreno-segmento-metalmecanico-1116157570.html",
+    "nombreEmpleo": "Vendedor Terreno segmento Metalmecánico"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/administrador-a-1116315103.html",
+    "nombreEmpleo": "ADMINISTRADOR/A"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-2027-instituto-profesional-iacc-1116315078.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-2027"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-2370-instituto-profesional-iacc-1116314994.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-2370"
+  },
+  {
+    "url": "https://www.laborum.cl#",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=18",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-2426-instituto-profesional-iacc-1116314975.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-2426"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-de-proyectos-1116314864.html",
+    "nombreEmpleo": "Ingeniero de Proyectos"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/coordinadora-mantenimiento-equipos-mina-calama-proyecto-team-work-1116308725.html",
+    "nombreEmpleo": "Coordinador(a) mantenimiento equipos mina Calama (proyecto)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/planificador-electrico-mantencion-planta-minera-sierra-gorda-1116314746.html",
+    "nombreEmpleo": "Planificador Eléctrico Mantención Planta"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-6673-instituto-profesional-iacc-1116314543.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-6673"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-7231-instituto-profesional-iacc-1116314493.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-7231"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-6983-instituto-profesional-iacc-1116314488.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-6983"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-electronico-senior-valparaiso-consultora-forevision-spa-1116263166.html",
+    "nombreEmpleo": "Ingeniero Electrónico Senior - Valparaíso"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-civil-para-cargo-de-administrador-de-contratos-rancagua-vi-region-mandomedio-1116277229.html",
+    "nombreEmpleo": "Ingeniero Civil para cargo de Administrador de Contratos - Rancagua (V..."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/administrador-de-contratos-rancagua-vi-region-mandomedio-1116277226.html",
+    "nombreEmpleo": "Administrador de Contratos - Rancagua (VI Región)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/encargado-de-logistica-lima-peru-18364-randstad-servicios-ltda-1116313506.html",
+    "nombreEmpleo": "Encargado de logística (Lima, Perú)-18364"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/especialista-de-carguio-moncon-palas-ferrovial-servicios-chile-1116313246.html",
+    "nombreEmpleo": "Especialista de Carguío - MONCON Palas"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/jefe-de-turno-preparacion-mecanica-de-muestras-1116313119.html",
+    "nombreEmpleo": "Jefe de Turno Preparación Mecánica de Muestras"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-de-datos-laboratorio-1116313100.html",
+    "nombreEmpleo": "Analista de Datos (laboratorio)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/especialista-equipos-auxiliares-ferrovial-servicios-chile-1116313089.html",
+    "nombreEmpleo": "Especialista Equipos Auxiliares"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-en-procesos-metalurgicos-cu-lazcar-servicios-a-la-mineria-spa-1116311689.html",
+    "nombreEmpleo": "Ingeniero en procesos metalúrgicos CU"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/geoquimico-senior-18477-randstad-servicios-ltda-1116311957.html",
+    "nombreEmpleo": "Geoquímico Senior-18477"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/coordinador-academico-especialidad-mineria-la-serena-1116311920.html",
+    "nombreEmpleo": "Coordinador Académico especialidad Mineria - La Serena"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-electrico-para-el-cargo-de-ejecutivo-de-negocios-copiapo-peoplego-1116263643.html",
+    "nombreEmpleo": "Ingeniero Eléctrico para el cargo de Ejecutivo de Negocios - Copiapó"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ejecutivo-de-negocios-rubro-electrico-copiapo-peoplego-1116258056.html",
+    "nombreEmpleo": "Ejecutivo de Negocios (Rubro Eléctrico) Copiapó"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=18",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-comercial-subgerencia-inteligencia-de-negocio-los-parques-1116186738.html",
+    "nombreEmpleo": "Analista Comercial - Subgerencia Inteligencia de negocio"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-ayudante-mineria-con-licencia-interna-mina-geoblast-sa-1116311329.html",
+    "nombreEmpleo": "Técnico Ayudante minería con licencia interna mina"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/especialista-ensayos-no-destructivos-end-ferrovial-servicios-chile-1116311234.html",
+    "nombreEmpleo": "Especialista Ensayos No Destructivos (END)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/experto-en-prevencion-minera-los-pelambres-1116310170.html",
+    "nombreEmpleo": "Experto en prevencion Minera Los Pelambres"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/gestor-cultura-preventiva-ferrovial-servicios-chile-1116309460.html",
+    "nombreEmpleo": "Gestor Cultura Preventiva"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-a-electrico-a-ferrovial-servicios-chile-1116309426.html",
+    "nombreEmpleo": "Técnico/a Eléctrico/a"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/especialista-de-formacion-ferrovial-servicios-chile-1116309366.html",
+    "nombreEmpleo": "Especialista de Formación"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ejecutivo-callcenter-outbound-bdr-con-enfoque-en-mineria-de-datos-prospeccion-pannal-1116308431.html",
+    "nombreEmpleo": "Ejecutivo callcenter outbound BDR con Enfoque en Minería de Datos/pros..."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/operador-planta-minera-sierra-gorda-1116308945.html",
+    "nombreEmpleo": "Operador Planta"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/vendedor-especialista-en-mercado-publico-vertycal-1116306750.html",
+    "nombreEmpleo": "Vendedor Especialista en Mercado Público"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-a-senior-ingenieria-y-construccion-turno-4x3-adecco-recursos-humanos-sa-1116307349.html",
+    "nombreEmpleo": "INGENIERO/A SENIOR INGENIERIA Y CONSTRUCCION - TURNO 4x3"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/comprador-senior-minera-sierra-gorda-1116307166.html",
+    "nombreEmpleo": "Comprador Senior"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-confiabilidad-operacional-minera-sierra-gorda-1116307162.html",
+    "nombreEmpleo": "Ingeniero confiabilidad operacional"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/operador-de-preparacion-mecanica-calama-laboratorio-lqc-1116306870.html",
+    "nombreEmpleo": "Operador de preparación mecánica (Calama-Laboratorio LQC))"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/administrador-senior-de-contratos-minera-sierra-gorda-1116306795.html",
+    "nombreEmpleo": "Administrador Senior de Contratos"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/auxiliar-de-aseo-reemplazo-pares-y-alvarez-servicios-profesionales-limitada-1116305974.html",
+    "nombreEmpleo": "Auxiliar de Aseo - Reemplazo"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-de-servicio-mineria-electrico-electromecanico-laborum-selecta-1116302551.html",
+    "nombreEmpleo": "Técnico de Servicio Minería / Electrico - Electromecánico"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/administrativo-control-documental-rubro-maestranza-mineria-experiencia-minima-2-anos-patricia-coolet-santibanez-reyes-1116305062.html",
+    "nombreEmpleo": "Administrativo Control Documental-Rubro Maestranza- Minería/Experienci..."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/relator-de-capacitacion-con-reuf-wolf-capacitaciones-1116304926.html",
+    "nombreEmpleo": "Relator de Capacitación con REUF"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ayudante-produccion-hidrometalurgia-7x7-mejillones-cdo-servicios-empresariales-1116304371.html",
+    "nombreEmpleo": "Ayudante Producción Hidrometalurgia 7x7 - Mejillones"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=2",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=18",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/asistente-de-bodega-samtech-s.a.-1116298465.html",
+    "nombreEmpleo": "Asistente de bodega"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-en-prevencion-de-riesgos-1116304042.html",
+    "nombreEmpleo": "Ingeniero en Prevención de Riesgos"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-4370-instituto-profesional-iacc-1116303915.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-4370"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-4437-instituto-profesional-iacc-1116303908.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-4437"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/key-account-manager-skava-1116303607.html",
+    "nombreEmpleo": "Key Account Manager"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-3706-instituto-profesional-iacc-1116303625.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-3706"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/rigger-de-alto-tonelaje-calama-1.400.000-liquidos-1116283766.html",
+    "nombreEmpleo": "Rigger de Alto Tonelaje Calama - 1.400.000 liquidos"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/experto-en-acreditacion-minera-calama-ingeniero-en-rr.hh-o-carrera-afin-1116286478.html",
+    "nombreEmpleo": "Experto en Acreditación Minera Calama - Ingeniero en RR.HH o carrera a..."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-6997-instituto-profesional-iacc-1116302907.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-6997"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-6952-instituto-profesional-iacc-1116302839.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-6952"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-6577-instituto-profesional-iacc-1116302649.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-6577"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-en-prevencion-de-riesgo-right-consulting-1116302219.html",
+    "nombreEmpleo": "Ingeniero en Prevención de Riesgo"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/asistente-comercial-kolff-antofagasta-1116302095.html",
+    "nombreEmpleo": "Asistente comercial KOLFF Antofagasta"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/jefe-logistica-abastecimiento-y-distribucion-iquique-laborum-selecta-1116301985.html",
+    "nombreEmpleo": "Jefe logística abastecimiento y distribución - Iquique"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/electromecanico-a-palas-y-perforadoras-turno-7x7-adecco-recursos-humanos-sa-1116301554.html",
+    "nombreEmpleo": "ELECTROMECANICO/A PALAS Y PERFORADORAS - TURNO 7x7"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-de-compensaciones-las-condes-santiago-manpowergroup-chile-1116300943.html",
+    "nombreEmpleo": "Analista de Compensaciones - Las Condes, Santiago"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-en-hsec-antofagasta-samtech-s.a.-1116300636.html",
+    "nombreEmpleo": "Técnico en HSEC- ANTOFAGASTA"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/electromecanico-experiencia-en-mineria-o-planta-copiapo-grupo-progestion-1116300172.html",
+    "nombreEmpleo": "Electromecánico / Experiencia en minería o planta / Copiapó"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ayudante-produccion-hidrometalurgia-7x7-mejillones-cdo-servicios-empresariales-1116299754.html",
+    "nombreEmpleo": "Ayudante Producción Hidrometalurgia 7x7 (Mejillones)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ejecutivo-de-ventas-rubro-ferretero-valdivia-1116299688.html",
+    "nombreEmpleo": "EJECUTIVO DE VENTAS RUBRO FERRETERO VALDIVIA"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=3",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=2",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=18",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ejecutivo-de-ventas-mineria-valdivia-1116299686.html",
+    "nombreEmpleo": "EJECUTIVO DE VENTAS MINERIA VALDIVIA"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ejecutivo-de-ventas-rubro-industrial-valdivia-1116299685.html",
+    "nombreEmpleo": "EJECUTIVO DE VENTAS RUBRO INDUSTRIAL VALDIVIA"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ejecutivoa-comercial-medios-publicitarios-e-inteligencia-de-negocios-rubro-mineria-providencia-magno-consultores-1116299523.html",
+    "nombreEmpleo": "Ejecutivo(a) comercial - Medios publicitarios e inteligencia de negoci..."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/mecanico-a-operador-a-ferrovial-servicios-chile-1116298626.html",
+    "nombreEmpleo": "Mecánico/a Operador/a"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/gestores-de-ventas-iot-ai-en-region-metropolitana-wisely-1116298506.html",
+    "nombreEmpleo": "Gestores de ventas IoT + AI en Región Metropolitana"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-de-personal-y-remuneraciones-tdm-chile-s.a.-1116298317.html",
+    "nombreEmpleo": "Analista de Personal y Remuneraciones"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/comercial-jr.-no-requieres-mucha-experiencia-1116298077.html",
+    "nombreEmpleo": "Comercial Jr. (no requieres mucha experiencia)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-3321-instituto-profesional-iacc-1116298025.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-3321"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-3238-instituto-profesional-iacc-1116298013.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-3238"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/jefe-de-ventas-antofagasta-cosmoplas-s-a-1116297908.html",
+    "nombreEmpleo": "Jefe de Ventas Antofagasta"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/jefe-a-de-turno-procesos-turno-7x7-adecco-recursos-humanos-sa-1116297906.html",
+    "nombreEmpleo": "JEFE/A DE TURNO PROCESOS - TURNO 7x7"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-2841-instituto-profesional-iacc-1116297867.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-2841"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ejecutivo-de-ventas-rubro-ferretero-rancagua-1116297499.html",
+    "nombreEmpleo": "EJECUTIVO DE VENTAS RUBRO FERRETERO RANCAGUA"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ejecutivo-de-ventas-rubro-mineria-rancagua-1116297492.html",
+    "nombreEmpleo": "EJECUTIVO DE VENTAS RUBRO MINERIA RANCAGUA"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/consultor-de-gestion-y-negocios-prohuman-1116297019.html",
+    "nombreEmpleo": "Consultor de Gestión y Negocios"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/electrico-instrumentista-oferta-inclusiva-cemin-holding-minero-1116297018.html",
+    "nombreEmpleo": "Eléctrico Instrumentista - Oferta Inclusiva"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/jefe-de-servicios-copiapo-mandomedio-1116296462.html",
+    "nombreEmpleo": "Jefe de Servicios Copiapó"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ayudante-produccion-hidrometalurgia-mejillones7x7-cdo-servicios-empresariales-1116296444.html",
+    "nombreEmpleo": "Ayudante Producción Hidrometalurgia - Mejillones7x7"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-9728-instituto-profesional-iacc-1116296184.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-9728"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-9834-instituto-profesional-iacc-1116296153.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-9834"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=4",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=3",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=18",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-9216-instituto-profesional-iacc-1116295987.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-9216"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/subgerente-de-negocios-zonal-iquique-1116295055.html",
+    "nombreEmpleo": "Subgerente de Negocios Zonal IQUIQUE"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/desarrolladoras-res-disciplinares-ingenieria-en-informatica-minas-conectividad-y-redes-c.-civil-instituto-profesional-de-chile-1116294552.html",
+    "nombreEmpleo": "Desarrolladoras/res Disciplinares - Ingeniería en Informática / Minas ..."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/paramedico-oferta-inclusiva-cemin-holding-minero-1116294293.html",
+    "nombreEmpleo": "Paramédico - Oferta inclusiva"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-5906-instituto-profesional-iacc-1116294270.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-5906"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/muestrero-oferta-inclusiva-cemin-holding-minero-1116294250.html",
+    "nombreEmpleo": "Muestrero - Oferta inclusiva"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-6240-instituto-profesional-iacc-1116294194.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-6240"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/operador-sala-de-control-oferta-inclusiva-cemin-holding-minero-1116294190.html",
+    "nombreEmpleo": "Operador sala de Control - Oferta inclusiva"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/mecanico-hidraulico-ferrovial-servicios-chile-1116294185.html",
+    "nombreEmpleo": "MECANICO HIDRAULICO"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-6218-instituto-profesional-iacc-1116294172.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-6218"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/operador-planta-oferta-inclusiva-cemin-holding-minero-1116294170.html",
+    "nombreEmpleo": "Operador Planta - Oferta Inclusiva"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/apoyo-planta-cemin-holding-minero-1116294130.html",
+    "nombreEmpleo": "Apoyo Planta"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/romanero-a-oferta-inclusiva-cemin-holding-minero-1116294108.html",
+    "nombreEmpleo": "Romanero/a - Oferta inclusiva"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/supervisor-a-de-licitaciones-macul-rm-dictuc-1116290414.html",
+    "nombreEmpleo": "Supervisor/a de Licitaciones - Macul RM"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/mecanico-a-a-ferrovial-servicios-chile-1116293866.html",
+    "nombreEmpleo": "Mecánico/a A"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/plan-de-carrera-area-de-ventas-1116293513.html",
+    "nombreEmpleo": "Plan de carrera área de ventas"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/asesor-de-prevencion-de-riesgo-codelco-division-chuquicamata-skf-chilena-s.a.i.c.-1116293283.html",
+    "nombreEmpleo": "Asesor de Prevención de Riesgo - Codelco División Chuquicamata"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/jefe-departamento-prevencion-de-riesgos-sernageomin-ferrovial-servicios-chile-1116293152.html",
+    "nombreEmpleo": "JEFE DEPARTAMENTO PREVENCION DE RIESGOS SERNAGEOMIN"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ayudante-produccion-hidrometalurgia-mejillones7x7-cdo-servicios-empresariales-1116292858.html",
+    "nombreEmpleo": "Ayudante Producción Hidrometalurgia / Mejillones7x7"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/supervisor-de-operaciones-antofagasta-1115820612.html",
+    "nombreEmpleo": "Supervisor de Operaciones - Antofagasta"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=5",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=4",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=18",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-2861-instituto-profesional-iacc-1116292608.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-2861"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-2807-instituto-profesional-iacc-1116292594.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-2807"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/proyectista-mecanico-1116292546.html",
+    "nombreEmpleo": "PROYECTISTA MECÁNICO"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-2363-instituto-profesional-iacc-1116292395.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-2363"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-de-procesos-vigaflow-s.a-1116292315.html",
+    "nombreEmpleo": "Ingeniero de Procesos"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/administrador-de-contrato-laboratorio-salares-norte-manpowergroup-chile-1116291080.html",
+    "nombreEmpleo": "Administrador de Contrato - Laboratorio Salares Norte"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-9439-instituto-profesional-iacc-1116290688.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-9439"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-9150-instituto-profesional-iacc-1116290678.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-9150"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/coordinador-de-prevencion-de-riesgos-bilingue-colina-manpowergroup-chile-1116290605.html",
+    "nombreEmpleo": "Coordinador de Prevención de Riesgos Bilingüe - Colina"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-9484-instituto-profesional-iacc-1116290585.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-9484"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/jefe-de-laboratorio-laboratorio-quimico-salares-norte-manpowergroup-chile-1116290573.html",
+    "nombreEmpleo": "Jefe de Laboratorio - Laboratorio Químico Salares Norte"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/supervisor-a-electrico-a-ferrovial-servicios-chile-1116290561.html",
+    "nombreEmpleo": "Supervisor/a Eléctrico/a"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/estudiante-en-practica-tecnico-o-ingeniero-en-recursos-humanos-samtech-s.a.-1116290538.html",
+    "nombreEmpleo": "Estudiante en práctica Técnico o Ingeniero en Recursos Humanos"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/supervisor-a-mecanico-a-ferrovial-servicios-chile-1116290529.html",
+    "nombreEmpleo": "Supervisor/a Mecánico/a"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-geomecanico-1116290426.html",
+    "nombreEmpleo": "Ingeniero Geomecanico"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/practica-profesional-dibujante-tecnico-tega-corporativo-tega-industries-1116290069.html",
+    "nombreEmpleo": "Práctica Profesional Dibujante Técnico - Tega Corporativo"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/especialista-en-entrenamiento-para-faena-minera-1116231407.html",
+    "nombreEmpleo": "Especialista en entrenamiento para faena Minera"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/business-partner-recursos-humanos-ahs-turno-4x3-adecco-recursos-humanos-sa-1116289218.html",
+    "nombreEmpleo": "BUSINESS PARTNER RECURSOS HUMANOS AHS - TURNO 4x3"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/vendedor-tecnico-equipos-e-implementos-para-mineria-e-industria-norliftchile-1116289163.html",
+    "nombreEmpleo": "vendedor técnico equipos e implementos para minería e industria"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-mecanico-operador-cnc-comercializadora-e-ingenieria-mafem-ltda-1116289118.html",
+    "nombreEmpleo": "TECNICO MECÁNICO OPERADOR CNC"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=6",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=5",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=18",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/prevencionista-de-riesgos-rcabrerac34gmail.com-fran-1116288819.html",
+    "nombreEmpleo": "PREVENCIONISTA DE RIESGOS"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-6219-instituto-profesional-iacc-1116288836.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-6219"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/product-manager-mineria-santiago-1116288804.html",
+    "nombreEmpleo": "PRODUCT MANAGER MINERÍA SANTIAGO"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-3766-instituto-profesional-iacc-1116288641.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-3766"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/project-accountant-tega-corporativo-santiago-concon-tega-industries-1116288215.html",
+    "nombreEmpleo": "Project Accountant - Tega Corporativo (Santiago - Concón)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/mecanico-a-hidraulico-a-ferrovial-servicios-chile-1116287974.html",
+    "nombreEmpleo": "Mecánico/a Hidráulico/a"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/mecanico-a-soldador-a-ferrovial-servicios-chile-1116287777.html",
+    "nombreEmpleo": "Mecánico/a Soldador/a"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/jefe-de-contabilidad-bvm-consultores-sa-1116287600.html",
+    "nombreEmpleo": "Jefe de Contabilidad"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/electrico-a-instrumentista-b-ferrovial-servicios-chile-1116287592.html",
+    "nombreEmpleo": "Eléctrico/a Instrumentista B"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-de-soporte-samtech-s.a.-1116286899.html",
+    "nombreEmpleo": "Ingeniero de Soporte"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/consultor-de-ventas-tecnicas-adecco-recursos-humanos-sa-1116286877.html",
+    "nombreEmpleo": "Consultor de Ventas Técnicas"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-3817-instituto-profesional-iacc-1116286833.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-3817"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/se-requieren-relatores-facilitadores-etyca-profesionales-ltda.-1116285634.html",
+    "nombreEmpleo": "Se requieren relatores/facilitadores"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/supervisor-de-operaciones-buses-jm-1116286704.html",
+    "nombreEmpleo": "Supervisor de Operaciones"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-3232-instituto-profesional-iacc-1116286665.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-3232"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-0173-instituto-profesional-iacc-1116284460.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-0173"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-0121-instituto-profesional-iacc-1116284446.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-0121"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-9690-instituto-profesional-iacc-1116284406.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-9690"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-electrico-o-mecanico-region-metropolitana-samtech-s.a.-1116067459.html",
+    "nombreEmpleo": "Técnico Eléctrico o Mecánico Región Metropolitana"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/subgerente-de-propuestas-y-negocios-laborum-selecta-1116284392.html",
+    "nombreEmpleo": "Subgerente de Propuestas y Negocios"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=7",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=6",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=18",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-terreno-tec-prevencion-de-riesgos--tec.-mineria--tec.-sonido-residencia-rancagua-sgs-chile-1116284060.html",
+    "nombreEmpleo": "Técnico Terreno- Téc Prevención de Riesgos – Téc. Minería – Téc. Sonid..."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/operador-de-equipo-auxiliar-tronaduras-antofagasta-1116283782.html",
+    "nombreEmpleo": "Operador de equipo auxiliar / Tronaduras / Antofagasta"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/especialista-desarrollo-de-canales-subgerencia-desarrollo-proyecto-comercial-banco-de-chile-1116283270.html",
+    "nombreEmpleo": "Especialista Desarrollo de Canales - Subgerencia Desarrollo Proyecto C..."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/operador-tapapozo-antofagasta-1.100.000-liquidos-grupo-progestion-1116283191.html",
+    "nombreEmpleo": "Operador Tapapozo / Antofagasta/ 1.100.000 líquidos"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-6945-instituto-profesional-iacc-1116283123.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-6945"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-6862-instituto-profesional-iacc-1116283108.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-6862"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/business-intelligence-mineria-lampa-hibrido-grupo-progestion-1116283070.html",
+    "nombreEmpleo": "Business Intelligence / Minería / Lampa / Híbrido"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-5966-instituto-profesional-iacc-1116282808.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-5966"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/generalista-de-rr.hh-providencia-magno-consultores-1116282506.html",
+    "nombreEmpleo": "Generalista de RR.HH (Providencia)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-de-ventas-y-servicios-1116281994.html",
+    "nombreEmpleo": "Ingeniero de Ventas y Servicios"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ejecutivo-de-licitaciones-ameco-chile-spa-1116281478.html",
+    "nombreEmpleo": "Ejecutivo de Licitaciones"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-3083-instituto-profesional-iacc-1116280989.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-3083"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/administrativo-de-contratos-1116231387.html",
+    "nombreEmpleo": "Administrativo de Contratos"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-2242-instituto-profesional-iacc-1116280902.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-2242"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/especialista-desarrollo-de-canales-subgerencia-desarrollo-proyecto-comercial-banco-de-chile-1116280757.html",
+    "nombreEmpleo": "Especialista Desarrollo de Canales - Subgerencia Desarrollo Proyecto C..."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/mecanico-palas-y-perforadoras-mineria-1116278736.html",
+    "nombreEmpleo": "Mecánico Palas y Perforadoras - Minería"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-9654-instituto-profesional-iacc-1116279212.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-9654"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-9209-instituto-profesional-iacc-1116279115.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-9209"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-9481-instituto-profesional-iacc-1116279113.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-9481"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-mecanico-palas-y-perforadoras-5s-consultores-ltda-1116278635.html",
+    "nombreEmpleo": "Técnico Mecánico Palas y Perforadoras"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=8",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=7",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=18",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-quimico-turno-7x7-adecco-recursos-humanos-sa-1116278343.html",
+    "nombreEmpleo": "ANALISTA QUIMICO - TURNO 7x7"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/jefe-a-gestion-comercial-construccion-y-mineria-echeverria-izquierdo-montajes-1116245628.html",
+    "nombreEmpleo": "Jefe/a Gestión Comercial (Construcción y Minería)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-lubricacion-antofagasta-empresa-nacional-de-energia-enex-sa-1116180907.html",
+    "nombreEmpleo": "Ingeniero Lubricación Antofagasta"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ejecutivo-de-ventas-en-terreno-ix-xiv-region-cosmoplas-s-a-1116278066.html",
+    "nombreEmpleo": "Ejecutivo de Ventas en Terreno IX - XIV Región"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-7321-instituto-profesional-iacc-1116277864.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-7321"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-7136-instituto-profesional-iacc-1116277740.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-7136"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/mecanico-a-hidraulico-a-ferrovial-servicios-chile-1116277285.html",
+    "nombreEmpleo": "Mecánico/a Hidráulico/a"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-de-reclutamiento-y-seleccion-proyecto-rancagua-hr-buro-1116277192.html",
+    "nombreEmpleo": "Analista de Reclutamiento y Selección Proyecto Rancagua"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-6009-instituto-profesional-iacc-1116277105.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-6009"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-de-ventas-y-servicios-zona-centro-1116276108.html",
+    "nombreEmpleo": "Ingeniero de Ventas y Servicios - Zona Centro"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/psicologo-a-relator-3d-ferrovial-servicios-chile-1116275825.html",
+    "nombreEmpleo": "Psicologo/a Relator 3D"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/bodeguero-y-gruero-multifuncional-con-licencia-clase-d-maquinaria-para-la-mineria-1116275814.html",
+    "nombreEmpleo": "BODEGUERO Y GRUERO MULTIFUNCIONAL CON LICENCIA CLASE D"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-3237-instituto-profesional-iacc-1116275411.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-3237"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-2846-instituto-profesional-iacc-1116275148.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-2846"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-2519-instituto-profesional-iacc-1116275112.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-2519"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-a-con-experiencia-en-mineria-calama-hr-buro-1116275084.html",
+    "nombreEmpleo": "Técnico A con experiencia en minería - Calama"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-senior-con-experiencia-en-mineria-calama-hr-buro-1116275068.html",
+    "nombreEmpleo": "Técnico Senior con experiencia en minería - Calama"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-b-con-experiencia-en-mineria-calama-hr-buro-1116275059.html",
+    "nombreEmpleo": "Técnico B con experiencia en minería - Calama"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-a-senior-de-confiabilidad-mantenimiento-mina-turno-4x3-adecco-recursos-humanos-sa-1116274985.html",
+    "nombreEmpleo": "INGENIERO/A SENIOR DE CONFIABILIDAD MANTENIMIENTO MINA - TURNO 4x3"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/human-resources-lead-empresa-de-servicios-industriales-acrux-corp-spa-1116274186.html",
+    "nombreEmpleo": "Human Resources Lead - Empresa de Servicios Industriales"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=9",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=8",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=18",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/vendedorao-terreno-mineria-santiago-1116273877.html",
+    "nombreEmpleo": "VENDEDORA(O) TERRENO MINERIA SANTIAGO"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-9507-instituto-profesional-iacc-1116273632.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-9507"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-9587-instituto-profesional-iacc-1116273568.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-9587"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/psicologa-o-reclutamiento-y-seleccion-calama-hr-buro-1116273463.html",
+    "nombreEmpleo": "Psicóloga/o Reclutamiento y Selección - Calama"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-9115-instituto-profesional-iacc-1116273392.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-9115"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/programadorde-torno-cnc-san-bernardo-manpowergroup-chile-1116156587.html",
+    "nombreEmpleo": "Programadorde torno CNC - San Bernardo"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/operador-camion-tolva-iquique-capacitacion-y-consultoria-en-recursos-humanos-seek-limitada-1116272935.html",
+    "nombreEmpleo": "OPERADOR CAMIÓN TOLVA - IQUIQUE"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/operador-camion-pluma-iquique-capacitacion-y-consultoria-en-recursos-humanos-seek-limitada-1116272921.html",
+    "nombreEmpleo": "OPERADOR CAMION PLUMA - IQUIQUE"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-de-proyecto-mineria-adecco-recursos-humanos-sa-1116272861.html",
+    "nombreEmpleo": "Ingeniero de Proyecto (Minería)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/prevencionista-de-riesgos-puerto-montt-lureye-1116272798.html",
+    "nombreEmpleo": "Prevencionista de Riesgos PUERTO MONTT"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-6244-instituto-profesional-iacc-1116271712.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-6244"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-6334-instituto-profesional-iacc-1116271699.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-6334"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/desarrollador-sql--remoto-kibernum-s.a.-1116271606.html",
+    "nombreEmpleo": "Desarrollador SQL – Remoto"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-contable-grupoexpro-1116271595.html",
+    "nombreEmpleo": "Analista Contable"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-5832-instituto-profesional-iacc-1116271501.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-5832"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-electrico-instrumentista-ckf-soluciones-1116270894.html",
+    "nombreEmpleo": "Técnico Eléctrico - Instrumentista"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-jornada-completa-mineria-09-4317-instituto-profesional-iacc-1116270701.html",
+    "nombreEmpleo": "Docente Jornada Completa Minería 09-4317"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-en-pprr-sernageomin-b-laboratorio-calama-1116270687.html",
+    "nombreEmpleo": "Ingeniero en PPRR Sernageomin B Laboratorio (Calama)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/quimico-a-laboratorio-calama-1116270653.html",
+    "nombreEmpleo": "Quimico A Laboratorio (Calama)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/quimico-b-laboratorio-calama-1116270644.html",
+    "nombreEmpleo": "Quimico B Laboratorio (Calama)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=10",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=9",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=18",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-de-servicios-1116270566.html",
+    "nombreEmpleo": "Ingeniero de Servicios"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/practica-prevencion-de-riesgo-samtech-s.a.-1116269749.html",
+    "nombreEmpleo": "Práctica Prevención de Riesgo"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/practica-prevencion-de-riesgo-samtech-s.a.-1116269748.html",
+    "nombreEmpleo": "Práctica Prevención de Riesgo"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/conductores-mineria-geoblast-sa-1116258132.html",
+    "nombreEmpleo": "Conductores Minería"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingenieroa-en-minas-control-tronadura-geoblast-sa-1116269550.html",
+    "nombreEmpleo": "Ingeniero(a) en Minas - Control Tronadura"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnicos-mantenedores-geoblast-sa-1116269037.html",
+    "nombreEmpleo": "Técnicos Mantenedores"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnicos-en-mineria-geoblast-sa-1116269015.html",
+    "nombreEmpleo": "Técnicos en Minería"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/geologo-geotecnico-b-geoblast-sa-1116268992.html",
+    "nombreEmpleo": "Geólogo Geotécnico B"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/key-account-manager-kam-skf-chilena-s.a.i.c.-1116268969.html",
+    "nombreEmpleo": "Key Account Manager (KAM)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingenieroa-geotecnico-b-geoblast-sa-1116268882.html",
+    "nombreEmpleo": "Ingeniero(a) Geotécnico B"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-a-gestion-mineria-turno-4x3-adecco-recursos-humanos-sa-1116268844.html",
+    "nombreEmpleo": "INGENIERO/A GESTIÓN MINERÍA - TURNO 4x3"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/administrador-de-contrato-geoblast-sa-1116268592.html",
+    "nombreEmpleo": "Administrador de Contrato"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-de-sistemas-desarrollo-inteligencia-operacional-banco-de-chile-1116268437.html",
+    "nombreEmpleo": "Analista de Sistemas - Desarrollo Inteligencia Operacional"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/kam-mineria-1116177502.html",
+    "nombreEmpleo": "Kam - Minería"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/prevencionista-de-riesgos-sucursal-puerto-montt-lureye-1116267896.html",
+    "nombreEmpleo": "Prevenciónista de Riesgos Sucursal PUERTO MONTT"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-9897-instituto-profesional-iacc-1116267812.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-9897"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-electrico-o-mecanico-antofagasta-samtech-s.a.-1116125702.html",
+    "nombreEmpleo": "Técnico Eléctrico o Mecánico Antofagasta"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/psicologo-freelance-experiencia-reclutamiento-masivo-perfiles-mineria-manpowergroup-chile-1116265987.html",
+    "nombreEmpleo": "Psicólogo Freelance (Experiencia Reclutamiento Masivo) - Perfiles Mine..."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-6934-instituto-profesional-iacc-1116265644.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-6934"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-6629-instituto-profesional-iacc-1116265556.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-6629"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=11",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=10",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=18",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/especialista-en-desarrollo-organizacional-turno-4x3-adecco-recursos-humanos-sa-1116265502.html",
+    "nombreEmpleo": "ESPECIALISTA EN DESARROLLO ORGANIZACIONAL - TURNO 4x3"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/periodista-con-experiencia-en-medios-de-comunicacion-providencia-magno-consultores-1116265436.html",
+    "nombreEmpleo": "Periodista con experiencia en medios de comunicación - Providencia"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ejecutivo-de-ventas-mineria-copiapo-1116265107.html",
+    "nombreEmpleo": "EJECUTIVO DE VENTAS MINERIA Copiapo"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/mecanico-a-andamiero-a-ferrovial-servicios-chile-1116264942.html",
+    "nombreEmpleo": "Mecánico/a Andamiero/a"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/supervisor-de-local-santiago-mineria-1116264792.html",
+    "nombreEmpleo": "SUPERVISOR DE LOCAL SANTIAGO MINERÍA"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/psicologa-o-area-de-seleccion-calama-hr-buro-1116264001.html",
+    "nombreEmpleo": "Psicóloga/o área de selección - Calama"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-a-de-licitaciones-y-propuestas-mineria-providencia-1116263433.html",
+    "nombreEmpleo": "Ingeniero/a de Licitaciones y Propuestas (minería) - Providencia"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-a-de-confiabilidad-mantenimiento-mina-turno-4x3-adecco-recursos-humanos-sa-1116263262.html",
+    "nombreEmpleo": "INGENIERO/A DE CONFIABILIDAD MANTENIMIENTO MINA - TURNO 4x3"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-1543-instituto-profesional-iacc-1116263202.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-1543"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-1405-instituto-profesional-iacc-1116263193.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-1405"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/alarife-con-experiencia-en-mineria-iquique-hr-buro-1116263174.html",
+    "nombreEmpleo": "Alarife con experiencia en minería - Iquique"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/capataz-oocc-con-experiencia-en-mineria-iquique-hr-buro-1116263160.html",
+    "nombreEmpleo": "Capataz OOCC con experiencia en minería - Iquique"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ayudante-de-planta-experiencia-en-explosivos-o-productos-quimicos-antofagasta-750.000-liq-1116263143.html",
+    "nombreEmpleo": "Ayudante de planta/ Experiencia en explosivos o productos químicos/ An..."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/supervisor-a-piping-ferrovial-servicios-chile-1116262570.html",
+    "nombreEmpleo": "Supervisor/a Piping"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ayudante-produccion-hidrometalurgia-mejillones7x7-cdo-servicios-empresariales-1116262392.html",
+    "nombreEmpleo": "Ayudante Producción Hidrometalurgia - Mejillones7x7"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/rigger-con-experiencia-iquique-hr-buro-1116262150.html",
+    "nombreEmpleo": "Rigger con experiencia - Iquique"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/operador-camion-pluma-con-licencia-a4-y-d-iquique-hr-buro-1116262143.html",
+    "nombreEmpleo": "Operador Camión Pluma con licencia A4 y D - Iquique"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/asesor-de-prevencion-de-riesgo-copia-jordi-camps-1116261240.html",
+    "nombreEmpleo": "Asesor de prevención de riesgo - copia"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/operador-retroexcavadora-con-licencia-clase-d-iquique-hr-buro-1116262140.html",
+    "nombreEmpleo": "Operador Retroexcavadora con licencia clase D - Iquique"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ejecutivo-de-ventas-b2b-con-experiencia-profesional-selecom-comunicaciones-y-energia-limitada-1116259910.html",
+    "nombreEmpleo": "EJECUTIVO DE VENTAS B2B CON EXPERIENCIA PROFESIONAL"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=12",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=11",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=18",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/lider-de-abastecimiento-geoblast-sa-1116258858.html",
+    "nombreEmpleo": "Lider de abastecimiento"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/maestro-primera-obras-civiles-con-experiencia-iquique-hr-buro-1116262055.html",
+    "nombreEmpleo": "Maestro Primera Obras Civiles con Experiencia - Iquique"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/asistente-administrativo-bodeguero-con-exp-iquique-hr-buro-1116262054.html",
+    "nombreEmpleo": "Asistente Administrativo - Bodeguero con exp - Iquique"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-de-sistemas-1116261683.html",
+    "nombreEmpleo": "Analista de Sistemas"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-administracion-y-finanzas-1116261579.html",
+    "nombreEmpleo": "Analista Administración y Finanzas"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/prevencion-de-riesgos-asesor-sucursal-puerto-montt-lureye-1116261523.html",
+    "nombreEmpleo": "Prevención de Riesgos (Asesor) Sucursal PUERTO MONTT"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/prevencionista-de-riesgos-el-salvador-coasin-logicalis-1116261500.html",
+    "nombreEmpleo": "Prevencionista de Riesgos - El Salvador"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/jefe-de-ti-1116104196.html",
+    "nombreEmpleo": "Jefe de TI"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-a-de-proyecto-litio-cdo-servicios-empresariales-1116261411.html",
+    "nombreEmpleo": "Ingeniero/a de Proyecto - Litio"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-de-asignatura-escuela-de-procesos-industriales-45-7509-instituto-profesional-iacc-1116261260.html",
+    "nombreEmpleo": "Docente de Asignatura Escuela de Procesos Industriales 45-7509"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/docente-asignatura-escuela-procesos-industriales-04-7644-instituto-profesional-iacc-1116261244.html",
+    "nombreEmpleo": "Docente Asignatura Escuela Procesos Industriales 04-7644"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-de-inteligencia-de-negocios-1116260703.html",
+    "nombreEmpleo": "Analista de Inteligencia de negocios"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/vendedor-industrial-de-terreno-antofagasta-grupo-grafton-1116260594.html",
+    "nombreEmpleo": "Vendedor Industrial de Terreno, Antofagasta"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/asistente-logistico-junior-antofagasta-team-work-1116260593.html",
+    "nombreEmpleo": "Asistente logístico Junior - Antofagasta"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/supervisor-obras-civiles-con-experiencia-en-mineria-iquique-hr-buro-1116260590.html",
+    "nombreEmpleo": "Supervisor Obras Civiles con experiencia en Minería - Iquique"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/topografo-con-experiencia-en-faena-1116260512.html",
+    "nombreEmpleo": "Topógrafo con Experiencia en Faena"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-instrumentacion-geotecnica-7x7-copia-copia-geoblast-sa-1116258298.html",
+    "nombreEmpleo": "Técnico Instrumentación Geotécnica - 7x7 - copia - copia"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/administrador-de-obra-mineria-cristiandf72gmail.com-diaz-1116258082.html",
+    "nombreEmpleo": "Administrador de Obra Mineria"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/geologo-experiencia-en-mapeo-de-bancos-geoblast-sa-1116260201.html",
+    "nombreEmpleo": "Geólogo (experiencia en mapeo de bancos)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-en-hidrogeologia-geoblast-sa-1116260168.html",
+    "nombreEmpleo": "Técnico en Hidrogeología"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=13",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=12",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=18",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/superintendente-gestion-de-materiales-minera-sierra-gorda-1116260105.html",
+    "nombreEmpleo": "Superintendente Gestión de materiales"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/lider-de-proyectos-mineros-providencia-acrux-corp-spa-1116260069.html",
+    "nombreEmpleo": "Líder de Proyectos Mineros - Providencia"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-financieroa-riesgos-y-seguros-proyecto-mineria-team-work-1116259927.html",
+    "nombreEmpleo": "Analista financiero(a) Riesgos y Seguros Proyecto minería"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/encargado-de-licitaciones-mineria-providencia-1116259862.html",
+    "nombreEmpleo": "Encargado de Licitaciones (minería) - Providencia"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/control-geotecnico-tronadura-geoblast-sa-1116259723.html",
+    "nombreEmpleo": "Control Geotécnico Tronadura"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/vendedor-tecnico-antofagasta-grupo-grafton-1116259659.html",
+    "nombreEmpleo": "Vendedor Técnico Antofagasta"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/supervisor-a-de-servicios-generales-oferta-inclusiva-cemin-holding-minero-1116259178.html",
+    "nombreEmpleo": "Supervisor/a de Servicios Generales - Oferta Inclusiva"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/jefe-de-mantenimiento-antofagasta-1115820604.html",
+    "nombreEmpleo": "Jefe de Mantenimiento - Antofagasta"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/gestora-abastecimiento-proyecto-mineria-team-work-1116259099.html",
+    "nombreEmpleo": "Gestor(a) Abastecimiento Proyecto Minería"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/vendedor-terreno-sector-industrial-y-mineria-laborum-selecta-1116258466.html",
+    "nombreEmpleo": "Vendedor terreno sector industrial y minería"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/controlador-de-sondaje-geoblast-sa-1116258247.html",
+    "nombreEmpleo": "Controlador de Sondaje"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-analista-monitoreo-mineria-geoblast-sa-1116258139.html",
+    "nombreEmpleo": "Ingeniero Analista Monitoreo Minería"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-en-control-de-operaciones-mineras-geoblast-sa-1116258137.html",
+    "nombreEmpleo": "Ingeniero en Control de Operaciones Mineras"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/coordinador-de-capacitacion-servicio-de-capacitacion-iquique-1116258091.html",
+    "nombreEmpleo": "Coordinador de Capacitación (servicio de capacitación) Iquique"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-de-inventarios-logistica-pudahuel-manpowergroup-chile-1116258039.html",
+    "nombreEmpleo": "Analista de Inventarios Logística Pudahuel"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/administrador-de-contratos-mineria-iquique-empresa-nacional-de-energia-enex-sa-1116257958.html",
+    "nombreEmpleo": "Administrador de Contratos Minería (Iquique)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/asesor-sso-mineria-iquique-empresa-nacional-de-energia-enex-sa-1116257954.html",
+    "nombreEmpleo": "Asesor SSO Minería (Iquique)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/administrador-a-de-contrato-servicio-de-capacitacion-i-region-1116257925.html",
+    "nombreEmpleo": "Administrador/a de Contrato (servicio de capacitación) I Región"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/instrumentista-electrico-cemin-holding-minero-1116257502.html",
+    "nombreEmpleo": "Instrumentista Eléctrico"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingenieros-constructores-1116257448.html",
+    "nombreEmpleo": "Ingenieros Constructores"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=14",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=13",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=18",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-en-prevencion-de-riesgos-y-sistemas-de-gestion-integrados-maquinaria-para-la-mineria-1116158435.html",
+    "nombreEmpleo": "Ingeniero en Prevención de riesgos y sistemas de gestión integrados"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/electromecanico-experiencia-en-mineria-turno-7x7-antofagasta-1.000.000-grupo-progestion-1116256749.html",
+    "nombreEmpleo": "Electromecánico, experiencia en minería, Turno 7x7, Antofagasta, 1.000..."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/operador-de-preparacion-mecanica-calama-1116256583.html",
+    "nombreEmpleo": "Operador de preparación mecánica (Calama)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-mecanico-equipos-pesados-faena-centinela-manpowergroup-chile-1116256274.html",
+    "nombreEmpleo": "Técnico Mecánico Equipos Pesados - Faena Centinela"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-mecanico-maquinaria-pesada-el-romeral-manpowergroup-chile-1116256272.html",
+    "nombreEmpleo": "Técnico Mecánico (Maquinaria Pesada) El Romeral"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ayudante-de-sondaje-para-faenas-mineras-zona-norte-empresas-humannet-1116256110.html",
+    "nombreEmpleo": "Ayudante de Sondaje para Faenas Mineras - Zona Norte"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/asesor-en-prevencion-de-riesgos-sucursal-puerto-montt-lureye-1116256109.html",
+    "nombreEmpleo": "Asesor en Prevención de Riesgos Sucursal PUERTO MONTT"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ayudante-produccion-hidrometalurgia-mejillones7x7-cdo-servicios-empresariales-1116255264.html",
+    "nombreEmpleo": "Ayudante Producción Hidrometalurgia - Mejillones7x7"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/psicologa-o-de-reclutamiento-y-seleccion-cdo-servicios-empresariales-1115677476.html",
+    "nombreEmpleo": "Psicóloga/o de Reclutamiento y Selección"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/contador-tributario-1116243003.html",
+    "nombreEmpleo": "Contador Tributario"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/supervisores-1116254125.html",
+    "nombreEmpleo": "Supervisores"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/vendedor-tecnico-zona-norte-ing.-electricomecanico-o-quimico-soluciones-tratamiento-de-aguas-consultora-hs-1116252755.html",
+    "nombreEmpleo": "vendedor tecnico zona norte (ing. eléctrico,mecanico o quimico) soluci..."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-de-licitaciones-rubro-minero-providencia-1116250924.html",
+    "nombreEmpleo": "Analista de Licitaciones (rubro minero) - Providencia"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/commercial-staff-1116249732.html",
+    "nombreEmpleo": "Commercial staff"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-de-recursos-humanos-aguaex-spa-1116249705.html",
+    "nombreEmpleo": "Analista de Recursos Humanos"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/supervisor-a-monitoreo-de-condiciones-turno-4x3-adecco-recursos-humanos-sa-1116248982.html",
+    "nombreEmpleo": "SUPERVISOR/A MONITOREO DE CONDICIONES - TURNO 4x3"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-a-de-terreno-asset-integrity-turno-7x7-adecco-recursos-humanos-sa-1116248909.html",
+    "nombreEmpleo": "INGENIERO/A DE TERRENO ASSET INTEGRITY - TURNO 7x7"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/soporte-de-bodega-area-industrial-hr-buro-1116248597.html",
+    "nombreEmpleo": "Soporte de Bodega Área Industrial"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/product-manager-mineria-santiago-1116248570.html",
+    "nombreEmpleo": "PRODUCT MANAGER MINERÍA SANTIAGO"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/planificador-a-corto-plazo-de-mantenimiento-planta-turno-4x3-adecco-recursos-humanos-sa-1116248250.html",
+    "nombreEmpleo": "PLANIFICADOR/A CORTO PLAZO DE MANTENIMIENTO PLANTA - TURNO 4x3"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=15",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=14",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-mecanico-equipo-pesado-faena-centinela-manpowergroup-chile-1116248023.html",
+    "nombreEmpleo": "Técnico Mecánico Equipo Pesado - Faena Centinela"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-mecanico-maquinaria-pesada-faena-iv-region-manpowergroup-chile-1116247940.html",
+    "nombreEmpleo": "Técnico Mecánico (Maquinaria Pesada) Faena IV Región"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/centinela-geotecnico-rm-geoblast-sa-1116247924.html",
+    "nombreEmpleo": "Centinela Geotécnico RM"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/inspectora-de-procesos-tega-quilicura-tega-industries-1116190618.html",
+    "nombreEmpleo": "Inspector(a) de Procesos - Tega Quilicura"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/lider-de-abastecimiento-iquique-geoblast-sa-1116246810.html",
+    "nombreEmpleo": "Líder de Abastecimiento - Iquique"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/asistente-de-muestrera-geologica-pozo-almonte-geoblast-sa-1116246787.html",
+    "nombreEmpleo": "Asistente de Muestrera Geológica (Pozo Almonte)"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-gestion-rrhh-iquique-geoblast-sa-1116246257.html",
+    "nombreEmpleo": "Analista Gestión RRHH Iquique"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-a-control-de-procesos-turno-4x3-compania-minera-lomas-bayas-1116244668.html",
+    "nombreEmpleo": "INGENIERO/A CONTROL DE PROCESOS - TURNO 4x3"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/operador-de-faena-1116246065.html",
+    "nombreEmpleo": "OPERADOR DE FAENA"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/administrador-de-planta-antofagasta-grupo-grafton-1116245708.html",
+    "nombreEmpleo": "Administrador de Planta - Antofagasta"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/mecanico-servicios-brioccelli-1116244660.html",
+    "nombreEmpleo": "MECANICO"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/jefe-de-integridad-y-calidad-adecco-recursos-humanos-sa-1116245151.html",
+    "nombreEmpleo": "Jefe de Integridad y Calidad"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/analista-de-rrhh-1116244914.html",
+    "nombreEmpleo": "Analista de RRHH"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/muestrero-a-de-procesos-turno-7x7-adecco-recursos-humanos-sa-1116244592.html",
+    "nombreEmpleo": "MUESTRERO/A DE PROCESOS - TURNO 7x7"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/jefe-de-turno-mantencion-planta-minera-sierra-gorda-1116244470.html",
+    "nombreEmpleo": "Jefe de Turno Mantención Planta"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/soporte-de-bodega-area-industrial-hr-buro-1116244290.html",
+    "nombreEmpleo": "Soporte de Bodega Área Industrial"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/soporte-de-bodega-area-industrial-hr-buro-1116244289.html",
+    "nombreEmpleo": "Soporte de Bodega Área Industrial"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-de-servicio-antofagasta-mantenimiento-automatizacion-electricidad-industrial-o-afin-laborum-selecta-1116244111.html",
+    "nombreEmpleo": "Técnico de Servicio Antofagasta: Mantenimiento Automatización Electric..."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/tecnico-o-ingeniero-en-prevencion-de-riesgos-antofagasta-laborum-selecta-1116244074.html",
+    "nombreEmpleo": "Técnico o Ingeniero en Prevención de Riesgos Antofagasta"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ayudante-mecanico-componentes-rotativos-jogglar-consultores-1116243330.html",
+    "nombreEmpleo": "Ayudante Mecánico Componentes Rotativos"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=16",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=14",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.html?relevantes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/ingeniero-a-de-planificacion-mantenimiento-mina-turno-4x3-compania-minera-lomas-bayas-1116243897.html",
+    "nombreEmpleo": "INGENIERO/A DE PLANIFICACION MANTENIMIENTO MINA - TURNO 4x3"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/asesor-en-prevencion-de-riesgos-puerto-montt-lureye-1116242771.html",
+    "nombreEmpleo": "Asesor en Prevención de Riesgos PUERTO MONTT"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/administrador-de-contratos-sernageomin-a-ambipar-response-1116039393.html",
+    "nombreEmpleo": "Administrador de Contratos Sernageomin A"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos/operario-de-bodega-con-licencia-d-v-region-hr-buro-1116242554.html",
+    "nombreEmpleo": "Operario de bodega con licencia D - V Región"
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=17",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  },
+  {
+    "url": "https://www.laborum.cl/empleos-busqueda-mineria.htmlrecientes=true&page=14",
+    "nombreEmpleo": "Nombre de empleo no encontrado."
+  }
+]
